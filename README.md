@@ -9,3 +9,4 @@ pri čemu se može vidjeti zauzetost sjedala te je moguć odabir sjedala preko t
 U bazi se čuvaju i podaci o svim filmovima koji se prikazuju u kinu ili će se uskoro prikazivati te je moguće 
 na zahtjev prikazati i te informacije. Moguće je i izraditi te isprintati račun.
 Aplikacija prati i zaduženja osoblja kina.
+
